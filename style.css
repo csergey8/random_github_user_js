@@ -19,7 +19,7 @@ body.view {
 .user-profile {
   margin: auto;
 	width: 27em;
-  height: 11em;
+  height: auto;
   background: #fff;
   border-radius: .3em;
 }
